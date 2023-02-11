@@ -209,6 +209,7 @@
         ["[2001:41d0:a:7f7d::]:31245", "N12vxrYTQzS5TRzxLfFNYxn6PyEsphKWkdqx2mVfEuvJ9sPF43uq"],
         ["[2001:41d0:602:db1::]:31245", "N1gEdBVEbRFbBxBtrjcTDDK9JPbJFDay27uiJRE3vmbFAFDKNh7"],
         ["[2001:41d0:602:21e4::]:31245", "N13Ykon8Zo73PTKMruLViMMtE2rEG646JQ4sCcee2DnopmVM3P5"],
+        ["38.242.207.98:31245", "N12hhhiQEpBGHpgexzeXkhwJLZzCKUDhQiyKxb4VBr5a3CkmrCW8"],
     ]
     # force the bootstrap protocol to use: "IPv4", "IPv6", or "Both". Defaults to using both protocols.
     bootstrap_protocol = "Both"
